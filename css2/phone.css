@@ -1,0 +1,17 @@
+.mainsection{
+    flex-direction: column;
+}
+.jobs{
+    width: 100vw;
+}
+.admitcard{
+    width: 100vw;
+    margin-top: 20px;
+}
+.result{
+    width: 100vw;
+    margin-top: 20px;
+}
+.navbar{
+    width: 100vw;
+}
